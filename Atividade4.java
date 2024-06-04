@@ -8,7 +8,7 @@ public class Atividade4 {
 
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US); 
-		Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in); // Lucas Rodrigues me ensinou a fazer essa sintaxe mais limpa do Scanner
 		
 		float n1, n2, n3, n4, resultado;
 		  
